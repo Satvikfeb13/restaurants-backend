@@ -187,20 +187,6 @@ Logging with SLF4J
 
 ModelMapper with strict matching
 
-🚧 Future Enhancements (Optional)
-
-JWT-based authentication & authorization
-
-Swagger / OpenAPI documentation
-
-Pagination & sorting
-
-Docker support
-
-Role-based access control
-
-Frontend integration
-
 👨‍💻 Author
 
 Satvik Patil
