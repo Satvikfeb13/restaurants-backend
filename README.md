@@ -66,6 +66,7 @@ Maven
 MySQL
 
 📁 Project Structure
+```text
 com.satvik.restaurantapp
 │
 ├── controller
@@ -93,6 +94,7 @@ com.satvik.restaurantapp
 │   └── GlobalExceptionHandler.java
 │
 └── RestaurantsBackendApplication.java
+
 
 🔗 API Endpoints
 HTTP Method	Endpoint	Description
