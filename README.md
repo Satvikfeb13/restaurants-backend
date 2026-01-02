@@ -94,16 +94,22 @@ com.satvik.restaurantapp
 │   └── GlobalExceptionHandler.java
 │
 └── RestaurantsBackendApplication.java
+```
 
 
 🔗 API Endpoints
-HTTP Method	Endpoint	Description
-GET	/restaurants	Get all active restaurants
-POST	/restaurants	Add a new restaurant
-GET	/restaurants/{id}	Get restaurant by ID
-PUT	/restaurants/{id}	Update restaurant details
-DELETE	/restaurants/{id}	Soft delete a restaurant
-PUT	/restaurants/{id}/restore	Restore a deleted restaurant
+ Base URL - http://localhost:8080(PortNumber)
+```text
+ HTTP Method  Endpoint                     Description                   
+-----------------------------------------------------------------------  
+ GET          /restaurants                 Get all active restaurants      
+ POST         /restaurants                 Add a new restaurant          
+ GET          /restaurants/{id}            Get restaurant by ID          
+ PUT          /restaurants/{id}            Update restaurant details     
+ DELETE       /restaurants/{id}            Soft delete a restaurant      
+ PUT          /restaurants/{id}/restore    Restore a deleted restaurant  
+```
+
 📥 Sample Request JSON
 Add Restaurant (POST /restaurants)
 {
