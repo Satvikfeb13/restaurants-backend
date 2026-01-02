@@ -1,0 +1,26 @@
+[33mcommit d5c0e9aa564c0f13c7c3cd129780a1bf80540713[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 06a5829 6c245e4
+Author: SatvikPatil <patilsatvik1324@gmail.com>
+Date:   Fri Jan 2 16:49:05 2026 +0530
+
+    Handle validation errors using MethodArgumentNotValidException
+
+[33mcommit 06a5829ecdb646024d6e0b4dc171f4cf055d0ea2[m
+Author: SatvikPatil <patilsatvik1324@gmail.com>
+Date:   Fri Jan 2 16:47:35 2026 +0530
+
+    Handle validation errors using MethodArgumentNotValidException
+
+[33mcommit 6c245e42f97e9f2d8523fdd41d0cb2e7f1cd9aa5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Satvik Patil <psatvik96@gmail.com>
+Date:   Fri Jan 2 16:44:17 2026 +0530
+
+    Create README for Restaurant Management Backend API
+    
+    Added detailed README for the Restaurant Management Backend API, including features, architecture, tech stack, API endpoints, setup instructions, and future enhancements.
+
+[33mcommit e95ff79d0a40fbfa670628f9a7ef578f62f0238b[m
+Author: SatvikPatil <patilsatvik1324@gmail.com>
+Date:   Fri Jan 2 14:54:41 2026 +0530
+
+    initial commit: Restaurants backend project
